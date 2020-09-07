@@ -1,7 +1,9 @@
 # Predicting-Credit-Card-Approvals
 This is a credit card approval predictor using Machine Learning techniques.
 
-Data: The data for this predictor is sourced from the UCI Machine Learning Repository [link][http://archive.ics.uci.edu/ml/datasets/credit+approval]
+Data: The data for this predictor is sourced from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/credit+approval)
+
+
 
 The following are some of the techniques used:
 * Data Load 
