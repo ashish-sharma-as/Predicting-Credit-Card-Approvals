@@ -1,7 +1,8 @@
 # Predicting-Credit-Card-Approvals
 This is a credit card approval predictor using Machine Learning techniques.
 
-![](cc_approval.png)
+
+<img src="cc_approval.png" width="300" height="175">
 
 *Image Source: https://www.iconfinder.com/icons/2219064/approved_card_check_credit_card_debit_card_icon*
 
