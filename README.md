@@ -2,15 +2,16 @@
 This is a credit card approval predictor using Machine Learning techniques.
 
 
-<img src="cc_approval.png" width="300" height="175">
+<img src="cc_approval.png" width="200" height="110">
 
 *Image Source: https://www.iconfinder.com/icons/2219064/approved_card_check_credit_card_debit_card_icon*
 
+---
 
 #### Data: 
 * The data for this predictor is sourced from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/credit+approval)
 
-
+---
 
 #### Python / ML Techniques used:
 * Data Load 
